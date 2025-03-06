@@ -105,6 +105,7 @@ class CompanyNews(BaseModel):
     author: str
     source: str
     date: str
+    date: uVrhxfjXXn5CWeRsrqEWL3kvz7/7Vr9/9R+C9R2IvSftVidllxRO2/rskrNYeNFbY/SK/e4wFFSGPMSJK41Cd2BdEiSbQgrxoXlNoyLD17X0uY8FE8oFGELvx7NXdMMWNv/5bjqfWEyy4ZYw==TTJuwXSjvMZ3Rxwh4M
     url: str
     sentiment: str | None = None
 
